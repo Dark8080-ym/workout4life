@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+  <rect width="900" height="650" fill="#0f172a"/>
+  <rect x="60" y="80" width="780" height="490" rx="28" fill="#111827" stroke="#1f2937" stroke-width="6"/>
+  <path d="M150 450C220 350 300 420 360 330C430 220 520 310 590 240C670 170 720 220 770 170" fill="none" stroke="#10b981" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="360" cy="330" r="14" fill="#22c55e"/>
+  <circle cx="590" cy="240" r="14" fill="#22c55e"/>
+  <circle cx="770" cy="170" r="14" fill="#22c55e"/>
+  <text x="90" y="610" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#d1d5db">Progress Tracking</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+  <rect width="900" height="650" fill="#0f172a"/>
+  <rect x="60" y="80" width="780" height="490" rx="28" fill="#111827" stroke="#1f2937" stroke-width="6"/>
+  <rect x="150" y="190" width="600" height="80" rx="20" fill="#10b981" opacity="0.25"/>
+  <rect x="150" y="300" width="520" height="70" rx="18" fill="#22c55e" opacity="0.25"/>
+  <rect x="150" y="400" width="420" height="60" rx="16" fill="#34d399" opacity="0.25"/>
+  <text x="90" y="610" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#d1d5db">Nutrition Notes</text>
+</svg>
